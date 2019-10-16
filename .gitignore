@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+notebooks/*/test_data/*
+notebooks/*/training_data/*
+notebooks/*/validation_data/*
+dogs-vs-cats.zip
+dogs-vs-cats/
+
